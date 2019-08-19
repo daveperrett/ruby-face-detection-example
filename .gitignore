@@ -1,0 +1,16 @@
+/.env
+/has_face/*.bmp
+/has_face/*.gif
+/has_face/*.jpeg
+/has_face/*.jpg
+/has_face/*.png
+/no_face/*.gif
+/no_face/*.jpeg
+/no_face/*.jpg
+/no_faces/*.png
+/to_sort/*.bmp
+/to_sort/*.bmp
+/to_sort/*.gif
+/to_sort/*.jpeg
+/to_sort/*.jpg
+/to_sort/*.png
